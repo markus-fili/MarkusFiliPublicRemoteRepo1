@@ -6,4 +6,8 @@ Hi, I'm Markus Filimonchuk, a developer passionate about building scalable and e
 
 Stay tuned for updates as I progress through the course!  
 
+<<<<<<< HEAD
 Local change made by Markus Filimonchuk.
+=======
+"Remote change made by Markus Filimonchuk."
+>>>>>>> c8337fcc9982020ce2bf06e79590e2f9c9af5908
